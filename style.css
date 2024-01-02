@@ -1,0 +1,178 @@
+body{
+    background: url( ./assest/img/bg_main.gif) center;
+}
+.cont{
+
+    width: 996px;
+    margin: 0 auto;
+}
+
+.header_cont{
+    background-color: rgb(151, 62, 235);
+    color: aqua;
+    line-height: 30px;
+    height: 30px;
+    border-bottom: 2px solid red;
+    
+}
+.header_right p{
+    display: inline-block;
+    border-right: 1px solid cornsilk ; 
+    margin-right: 10px;
+    padding-right: 10px;
+}
+.header_right a{
+    text-decoration: none;
+    color: aqua;
+    /* background-color: aqua; */
+    
+}
+/* header area end */
+.logo{
+    height: 110px;
+    background: rgb(236, 231, 231);
+}
+.logo_left{
+    line-height: 110px;
+}
+.logo_search{
+    top: 45px;
+    position: relative;
+}
+.logo_right{
+    padding-top: 35px;
+}
+.logo1{
+    border-right: 1px solid white;
+    padding-right: 10px;
+}
+.logo1 img{
+    position: relative;
+    top: 16%;
+}
+.logo2{
+    padding-left: 12px;
+}
+.logo2 h4{
+    font-size: 13px;
+    color: rebeccapurple;
+}
+input{
+    width: 75%;
+}
+.logo_search button{
+    background: #aaa;
+    font-size: 14px;
+}
+/* header area end */
+/* main menu area start */
+.main_manu .nav-item{
+    border-right: 1 px solid black;
+    font-size: 10px;
+}
+.main_manu .nav-item a:hover{
+    background-color: rgb(48, 74, 74);
+    color: white;
+}
+
+/* main menu area end */
+
+/* hero area start */
+.banner img{
+    border: 2px solid red;
+    padding: 10px;
+}
+/* hero area end */
+/* tab area strat */
+
+
+
+
+/* tab area end */
+/* list area star */
+
+.list h4{
+    color: blue;
+}
+.list{
+    padding-left: 15px;
+    font-size: 12px;
+    
+
+}
+.list ul li{
+    list-style: none;
+}
+.list ul li a{
+    color: black;
+    text-decoration-color: green;
+    font-size: medium;
+
+}
+.btn{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black !important;
+    background: gray !important;
+    height: 35px;
+    width: 100px;
+    
+
+}
+.list-btn{
+    text-align: center;
+}
+/* list area end */
+/* sider area star */
+.side-select p{
+    color: blueviolet;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.side-video h4{
+    background-color: green;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+}
+.side-img2 h4{
+    background-color: green;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+}
+.portal-vedio1 h4{
+    background-color: green;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+
+}
+.portal-vedio2 h4{
+    background-color: green;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+
+
+}
+/* sider area end */
+/* footer area start */
+
+.nav-item{
+    font-size: 12px;
+    border-right: 1px solid black;
+}
+.fb_left p{
+    font-size: 11px;
+    padding-left: 20px;
+}
+.fb_right p{
+    font-size: 11px;
+    margin-top: 15px;
+}
+.cont_p{
+    border-bottom: 2px solid purple;
+}
+/* footer part end */
+
